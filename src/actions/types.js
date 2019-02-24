@@ -1,0 +1,1 @@
+export const PLAYER_FETCHED = "PLAYER_FETCHED";
